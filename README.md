@@ -1,2 +1,3 @@
 # js.basic
-A code repo  for javascript series at personal.
+A code repository for javascript series at personal.
+Author-fatima
